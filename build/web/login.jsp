@@ -36,7 +36,7 @@ String path = request.getContextPath();
 <body>
 <div class="header">
   <div class="am-g">
-    <h1>Journal Web Site</h1>
+    <h1>Hospital Web Site</h1>
     <p>Please login to use this system<br/>
   </div>
   <hr />
@@ -68,7 +68,7 @@ String path = request.getContextPath();
       </div>
     </form>
     <hr>
-    <p>Journal Web Site</p>
+    <p>Hospital Web Site</p>
   </div>
 </div>
 </body>
